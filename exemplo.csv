@@ -1,0 +1,7 @@
+comma separeated values (CSV) file named "exemplo.csv" with the following content:
+```
+nome,quantidade, preco, disponibilidade
+Elen, 25, 10.5, True
+João, 10, 5.0, False    
+Luciano, 34, 7.25, True
+Fabio, 12, 15.0, False
